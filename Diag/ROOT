@@ -1,0 +1,16 @@
+session Diag = Cat +
+  description "Small diagrams in a locally small category, small presheaves on it, and the theorem that the second is the localization of the first at final reindexings."
+  theories
+    Diagrams
+    Diag_Category
+    PSh_Basics
+    PSh_Category
+    Colim_Functor
+    Final_Reindexing
+    Colim_Inverts
+    Elements
+    Spans
+    Diagram_Localization
+    Adequacy
+    Yoneda_Check
+    Presheaf_Colimit

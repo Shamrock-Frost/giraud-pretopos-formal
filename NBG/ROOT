@@ -1,0 +1,11 @@
+session NBG = HOL +
+  description "NBG set theory axiomatized in Isabelle/HOL: the axioms, and which classes exist."
+  theories
+    Notation
+    Axioms
+    Class_Existence
+    Axioms_Rest
+    Classes
+    Library
+    Library_Tests
+    Tests

@@ -1,0 +1,9 @@
+session Cat = NBG +
+  description "Categories, functors and localizations as classes; connectedness and final functors; the span criterion for a localization."
+  theories
+    Category
+    Functor
+    Iso
+    Graph
+    Final
+    Localization
